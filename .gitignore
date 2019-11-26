@@ -2,6 +2,7 @@
 [Db]ebug/
 x64/
 x86/
+.vs/
 
 #Files built by Visual Studio
 *.ilk
