@@ -1,0 +1,12 @@
+#Build results
+[Db]ebug/
+x64/
+x86/
+
+#Files built by Visual Studio
+*.ilk
+*.pbj
+*.pch
+*.log
+*.exe
+*.dll
